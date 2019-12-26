@@ -22,14 +22,14 @@
 }
 .step {
   background-color: darksalmon;
-  color: #fff;
+  color: #3daeb9;
   padding: 5px;
   width: 50px;
   float: left;text-align: center;
   position: absolute;
   top: 0;
   left: 0;
-  
+
 }
 img {
   width: 280px;
